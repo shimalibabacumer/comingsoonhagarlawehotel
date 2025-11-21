@@ -133,11 +133,7 @@ export default function ComingSoon() {
         </p>
 
         {/* Description */}
-        <p className="mb-12 max-w-2xl text-base leading-relaxed text-gray-400 md:text-lg">
-          Hagarlawe Hotel is your premier destination for luxury boutique accommodation.
-          Discover exceptional hotel amenities, elegant suites, and unforgettable guest experiences.
-          Book your perfect getaway at our exclusive resort and spa, where premium hospitality meets comfort.
-        </p>
+
 
         {/* Countdown Timer - Days, Hours, Minutes, Seconds */}
         <div className="mb-12 flex flex-wrap justify-center gap-4 md:gap-6">
